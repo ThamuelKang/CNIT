@@ -78,7 +78,7 @@ a {
 }
 
 
-.homework-details h3 {
+.homework-details h2 {
     font-size: 24px;
     font-weight: bold;
     margin: 0 0 12px 0;
@@ -164,7 +164,7 @@ nav .logo {
     }
 
 
-    .homework-details h3 {
+    .homework-details h2 {
         font-size: 20px;
     }
 }
